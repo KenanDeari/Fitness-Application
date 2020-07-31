@@ -10,10 +10,17 @@ html,
 body,
 .wrapper {
   height: 100%;
+	background-image: url(../images/fitness.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; 
+	background-image: url(../images/fitness.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+
 }
 
 nav {
@@ -136,6 +143,8 @@ form::after {
 .exercise .ui.card {
   width: 400px;
   max-width: 600px;
+  background-image: url(../images/fitness.jpeg);
+
 }
 
 .exercise .buttons {
